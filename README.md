@@ -51,6 +51,8 @@
 <p align="left">
     <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>
     <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
+    <a href="https://vercel.com/docs/getting-started-with-vercel"><img alt="Static Badge" src="https://img.shields.io/badge/Vercel-%23000000%20?style=flat&logo=vercel">
+</a>
  </p>
 
  ### 👉 Graphic Designing
