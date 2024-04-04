@@ -3,7 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;&center=true&width=500&height=50"></a>
 </p>
 
-## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="25px" height="25px"></img> About Me
+About Me
 
 - :credit_card: My full name is **Joel Waiman** <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
 - :older_man: I'm 26 years old :manual_wheelchair:
