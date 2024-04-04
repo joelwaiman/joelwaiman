@@ -27,8 +27,7 @@
   </a> 
     &emsp;
     <a href="https://www.w3schools.com/sass/" target="_blank">
-    <img alt="SASS" src="https://img.shields.io/badge/Sass-%23CC6699?style=flat&logo=sass&logoColor=white
-">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Sass-%23CC6699?style=flat&logo=sass&logoColor=white">
   </a> 
    &emsp;
   <a href="https://getbootstrap.com" target="_blank"> 
