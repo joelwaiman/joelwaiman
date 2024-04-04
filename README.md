@@ -5,7 +5,7 @@
 
 ### 👉 About Me
 
-- :credit_card: My full name is **Joel Waiman** <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
+- :credit_card: My full name is **Joel Waiman**
 - :older_man: I'm 26 years old :manual_wheelchair:
 - :earth_americas: I'm living now in **Entre Rios, Argentina**
 - :sweat_smile: I'm a Trainee in coding :penguin:
