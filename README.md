@@ -1,7 +1,16 @@
-<h1 align="center">Hi , I'm Joel Waiman <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Joel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;&center=true&width=500&height=50"></a>
 </p>
+
+## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
+
+- :credit_card: My full name is **Joel Waiman** <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
+- :older_man: I'm 26 years old :crutches:
+- :earth_americas: I'm living now in **Entre Rios, Argentina**
+- :sweat_smile: I'm a Trainee in coding :penguin:
+- :monocle_face: I'm interested in coding, desing, and watching film
+- :sunglasses: My quote is **_"It's never too late - never too late to start over"_**
 
 ## 🛠️ My Skills
 
