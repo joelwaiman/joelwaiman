@@ -10,7 +10,6 @@
 - :earth_americas: I'm living now in **Entre Rios, Argentina**
 - :sweat_smile: I'm a Trainee in coding :penguin:
 - :monocle_face: I'm interested in coding, desing, and watching film
-- :sunglasses: My quote is **_"It's never too late - never too late to start over"_**
 
 ## 🛠️ My Skills
 
