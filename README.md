@@ -8,7 +8,7 @@
 - :credit_card: My full name is **Joel Waiman**
 - :older_man: I'm 27 years old :manual_wheelchair:
 - :earth_americas: I'm living now in **Entre Rios, Argentina**
-- :sweat_smile: I'm a Trainee in coding :penguin:
+- :sweat_smile: I'm a junior in coding :penguin:
 - :monocle_face: I'm interested in coding, desing, and watching film
 
 ## 🛠️ My Skills
